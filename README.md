@@ -7,7 +7,7 @@ No Daslight copyrighted files are included in this repository.
 ## One-liner install
 
 ```bash
-curl -fsSL https://forgejo.craftkingdom.de/anton/daslight-on-linux-wine/raw/branch/main/setup.sh | bash
+curl -fsSL https://github.com/antonmoenninger/Daslight-installer-Linux/raw/branch/main/setup.sh | bash
 ```
 
 ## What it does
