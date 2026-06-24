@@ -89,3 +89,7 @@ The Daslight 5 installer is a Qt Installer Framework wrapper with embedded
   (vendor ID `0x10CE`). After setup, reconnect your USB interface.
   Wine's USB passthrough may not work with all devices — Art-Net/sACN over Ethernet
   is a more reliable option for DMX output on Linux.
+
+## Disclaimer
+
+This project is an independent, community-made installer and is not affiliated with, authorized, maintained, sponsored, or endorsed by Nicolaudie Group. "Daslight" and "EasyView" are registered trademarks of Nicolaudie Group. Use this script at your own risk.
